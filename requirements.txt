@@ -1,0 +1,6 @@
+dronekit
+dronekit - sitl
+MAVProxy
+prompt - toolkit
+wxPython
+matplotlib
